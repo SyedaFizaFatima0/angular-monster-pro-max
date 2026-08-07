@@ -2,6 +2,10 @@
 
 # Nebula Angular Dashboard ⚡
 
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 **Your command center for data-driven applications — where clarity meets performance.**
 
 Nebula is an enterprise-grade Angular dashboard template inspired by the architectural elegance of Monster Angular Lite. While Monster excels in providing a comprehensive admin foundation, Nebula focuses on **real-time data visualization, modular component design, and adaptive intelligence** for modern web applications. Built on Angular 18 with Bootstrap 5 and optimized for TypeScript strict mode, this template empowers developers to build analytical dashboards, monitoring panels, and SaaS backends with zero configuration overhead.
